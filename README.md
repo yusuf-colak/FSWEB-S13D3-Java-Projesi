@@ -1,4 +1,4 @@
-# Introduction To Java OOP :)
+# Introduction To Java OOP
 
 ### Proje Kurulumu
 
