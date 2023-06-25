@@ -39,7 +39,7 @@ System.out.println("Age: " + person.getAge());
 
 * ```Wall``` isimli bir sınıf tanımlayınız.
 * Sınıf için 2 tane ```instance variable``` tanımlayınız.
-* ```width``` double olmalı, ```height``` double olmalı.
+* Bu iki sınıf değişkeni; ```width``` double olmalı, ```height``` double olmalı.
 * Wall sınıfı için bir adet ```constructor``` tanımlayınız. 2 parametreyi de set etmeli.
 * Wall sınıfı içerisine 5 tane metod ekleyiniz.
 * ```getWidth``` => width değerini dönmeli
